@@ -1,0 +1,17 @@
+Name,Label,Question Text,Description,Category
+year,Gss year for this respondent                       ,,,
+denyrais,Denied raise without reason at work,I have been denied a raise or promotion without being given a valid reason. ,,
+promtefr,Promotions are handled fairly,"Now I''m going to read you another list of statements about your main job. For each, please tell me if the statement is very true, somewhat true, not too true, or not at all true with respect to the work you do. 
+I. Promotions are handled fairly",,
+discaffw,A woman won't get a job or promotion             ,"B. What do you think the chances are these days that a woman won't get a job or promotion while an equally or less qualified man gets one instead? Is this very likely, somewhat likely, somewhat unlikely, or very unlikely these days?",,
+discaffm,A man won't get a job or promotion  ,"A. What do you think the chances are these days that a man won't get a job or promotion while an equally or less qualified woman gets one instead? Is this very likely, somewhat likely, somewhat unlikely, or very unlikely these days?",,
+fejobaff,For or against preferential hiring of women      ,"Some people say that because of past discrimination, women should be given preference in hiring and promotion. Others say that such preference in hiring and promotion of women is wrong because it discriminates against men. What about your opinion - are you for or against preferential hiring and promotion of women?
+IF FOR:Do you favor preference in hiring and promotion strongly or not strongly?
+IF AGAINST:Do you oppose preference in hiring and promotion strongly or not strongly?",,
+jobaff,Favor preferences in hiring blacks,"Some people say that because of past discrimination, blacks should be given preference in hiring and promotion. Others say that such preference in hiring and promotion of blacks is wrong because it discriminates against others. What about your opinion--are you for or against preferential hiring and promotion of blacks?
+IF FOR:Do you favor preference in hiring and promotion strongly or not strongly?
+IF AGAINST:Do you oppose preference in hiring and promotion strongly or not strongly?",,
+sexpromo,Sex makes your promotion different,Do you think your being a (man/woman) makes your promotion opportunities better or worse?,,
+discaff,Whites hurt by aff. action,"What do you think the chances are these days that a white person won''t get a job or promotion while an equally or less qualified black person gets one instead?  Is this very likely, somewhat likely, or not very likely to happen these days?",,
+id_,Respondent id number,,,
+ballot,Ballot used for interview,Ballot Administered.,,

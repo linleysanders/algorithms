@@ -1,0 +1,13 @@
+infile dictionary {
+    _column(1)    numeric                               YEAR   %20f  "Gss year for this respondent                       "
+   _column(21)    numeric                           DENYRAIS   %20f  "Denied raise without reason at work"
+   _column(41)    numeric                           PROMTEFR   %20f  "Promotions are handled fairly"
+   _column(61)    numeric                           DISCAFFW   %20f  "A woman won't get a job or promotion             "
+   _column(81)    numeric                           DISCAFFM   %20f  "A man won't get a job or promotion  "
+  _column(101)    numeric                           FEJOBAFF   %20f  "For or against preferential hiring of women      "
+  _column(121)    numeric                             JOBAFF   %20f  "Favor preferences in hiring blacks"
+  _column(141)    numeric                           SEXPROMO   %20f  "Sex makes your promotion different"
+  _column(161)    numeric                            DISCAFF   %20f  "Whites hurt by aff. action"
+  _column(181)    numeric                                ID_   %20f  "Respondent id number"
+  _column(201)    numeric                             BALLOT   %20f  "Ballot used for interview"
+}
